@@ -1,0 +1,19 @@
+{
+  "name": "githash",
+  "version": "0.0.0",
+  "description": "get a repo's HEAD git hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "make lint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netroy/githash.git"
+  },
+  "keywords": [
+    "git",
+    "hash"
+  ],
+  "author": "NetRoY <aditya@netroy.in> (http://netroy.in/)",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+get a repo's HEAD git hash
