@@ -1,5 +1,5 @@
 {
-  "name": "githash",
+  "name": "gitHash",
   "version": "0.0.2",
   "description": "get a repo's HEAD git hash",
   "main": "index.js",
