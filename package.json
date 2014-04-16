@@ -1,6 +1,6 @@
 {
   "name": "gitHash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "get a repo's HEAD git hash",
   "main": "index.js",
   "scripts": {
